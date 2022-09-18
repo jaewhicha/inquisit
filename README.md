@@ -1,1 +1,1 @@
-# inquisit-server
+# inquisit
